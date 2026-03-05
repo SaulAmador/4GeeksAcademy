@@ -1,0 +1,58 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+    first_name: Saul
+    last_name: Amador
+    motto: Fullstack Web Developer with a security mindset
+    focus: Full-stack development & cybersecurity
+    summary: |
+      Fullstack developer with strong foundations in Python and modern web technologies.
+      Passionate about continuous learning, cybersecurity, and building secure, scalable applications.
+      Combining academic recognition (Stanford Code in Place) with practical bootcamp experience (4Geeks Academy).
+      
+    avatar: https://via.placeholder.com/400x400?text=Saul+Amador
+    email: anthraz.wow@gamil.com
+    linkedin: https://www.linkedin.com/in/saul-amador-79a9b22b4/
+    github: SaulAmador
+
+experiences:
+  - role: Junior Fullstack Developer
+    company: Tech Company
+    time: 2024 - Present
+    description: Developing secure and responsive web applications with React and Flask.
+
+  - role: Freelance Developer
+    company: Self
+    time: 2024 - 2026
+    description: Delivered various web development projects, focusing on frontend and backend integration.
+
+education:
+  - degree: Full Stack Web Developer
+    university: 4Geeks Academy
+    time: 2024 - 2026
+    details: Completed intensive bootcamp training in frontend, backend, and databases.
+
+  - degree: Code in Place (Python Programming)
+    university: Stanford University
+    time: 2025
+    details: Completed Stanford's Code in Place certification, strengthening Python foundations.
+
+  - degree: Certified in Cybersecurity (CC) - Candidate
+    university: ISC2
+    time: 2026 - Present
+    details: Currently pursuing ISC2 CC certification to validate cybersecurity fundamentals.
+
+skills:
+  - HTML5
+  - CSS3
+  - JavaScript
+  - React
+  - Node.js
+  - MongoDB
+  - Python
+  - Flask
+  - SQL/NoSQL
+  - Git/GitHub
+  - Cybersecurity Fundamentals
+  - Continuous Learning
